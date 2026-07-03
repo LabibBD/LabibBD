@@ -25,4 +25,6 @@ Python · C++ · OpenCV · PyTorch · Git · Linux · Embedded Systems
 
 ## Contact
 - LinkedIn: 
-- Email:
+- Email: qmostahid@gmail.com
+
+
