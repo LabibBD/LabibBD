@@ -29,3 +29,4 @@ I am currently an **undergraduate student, graduating in June 2029**, and welcom
 
 - **Email:** [qmostahid@gmail.com](mailto:qmostahid@gmail.com)
 - **GitHub:** [github.com/LabibBD](https://github.com/LabibBD)
+- **LinkedIn:** [Quazi Mostahid Labib](https://www.linkedin.com/in/quazi-mostahid-labib-14ba7b272/)
