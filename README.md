@@ -11,6 +11,7 @@ I build software at the intersection of **ML systems, software infrastructure, a
 | **[VORTEX](https://github.com/LabibBD/vortex-inference)** | C++17/CUDA neural-network inference runtime with GPU memory reuse, graph execution, transformer operators, ONNX conversion and profiling. Passed 30/30 C++/CUDA tests on RTX 5060 Ti; measured 5.1× lower median latency than PyTorch CUDA eager on a defined small FP32 transformer workload ([benchmark conditions and limitations](https://github.com/LabibBD/vortex-inference/blob/main/docs/rtx5060ti_lab_benchmark_2026-11-21.md)). |
 | **[FORGE-CI](https://github.com/LabibBD/forge-ci)** | Python CLI and CI toolkit for reproducible robot-learning evaluation, regression gating, failure analysis, six-dimensional disturbance testing, and automated HTML reporting. Includes a reproducible one-command regression demo and GitHub Actions automation. |
 | **[ARES](https://github.com/LabibBD/ARES)** | ROS 2 autonomous exploration system integrating Nav2, LiDAR-based SLAM, risk-aware frontier selection, and mission evaluation in simulation. A documented single mission achieved 74.37% map coverage and 7/7 successful navigation goals. |
+| **[HELIOS](https://github.com/LabibBD/helios-vla)** | Experimental SmolVLA outcome verification and stochastic retry framework. In one 30-episode LIBERO simulation experiment, oracle-guided retries increased success from 20/30 to 26/30 with up to three attempts; not an equal-compute comparison. |
 
 ## Open-source contributions
 
